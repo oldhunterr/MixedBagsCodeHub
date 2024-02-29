@@ -29,7 +29,7 @@ pip install -r requirements.txt
 - Run the script using Python:
 
 ```bash
-python whatsapp_phone_extractor.py
+python app.py
 ```
 
 The script will process the images, extract phone numbers, and save them in separate files (valid_phone_numbers.txt and invalid_phone_numbers.txt).
