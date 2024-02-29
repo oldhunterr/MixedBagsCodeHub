@@ -4,7 +4,7 @@ Welcome to MixedBagsCodeHub! This repository is a collection of personal code sn
 
 ## Introduction
 
-MixedBags contains a diverse range of scripts, each addressing a specific problem or task. These scripts are designed to be compact, efficient, and easy to understand. Feel free to explore the different folders to find solutions that might be helpful for your own projects.
+MixedBags contains a diverse range of scripts, each addressing a specific problem or task. These scripts are designed to be compact, efficient, and easy to understand. This repository serves as a place where I put small projects that I use to learn new languages, experiment with different techniques, or solve specific challenges.
 
 ## Usage
 
