@@ -33,7 +33,7 @@
             });
             let contactsString = Array.from(unsavedContacts).join('\n');
             let blob = new Blob([contactsString], { type: 'text/plain' });
-            let fileName = 'Buri.txt';
+            let fileName = 'numbers.txt';
             let link = document.createElement('a');
             link.download = fileName;
             link.href = window.URL.createObjectURL(blob);
